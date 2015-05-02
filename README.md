@@ -1,4 +1,4 @@
-	# Artist Directory Application
+#Artist Directory Application
 
 Description: 
 ---------------------------------------------------
